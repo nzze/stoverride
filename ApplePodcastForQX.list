@@ -1,0 +1,3 @@
+# Unlock Apple Podcast
+# 解锁外区的Podcast搜索等功能,只包含必要url
+HOST-SUFFIX,amp-api.podcasts.apple.com,Apple Podcast

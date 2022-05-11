@@ -2,4 +2,4 @@ name:  Unlock Apple Podcast
 desc: (纯净版)解锁外区的Podcast搜索等功能,只包含必要url
 
 rules:
-  - DOMAIN-SUFFIX,news-edge.apple.com,Proxy
+  - DOMAIN-SUFFIX,amp-api.podcasts.apple.com,Proxy
